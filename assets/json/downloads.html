@@ -1,0 +1,15 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.js"></script>
+
+<script type="text/javascript">
+  $.getJSON("https://api.ipify.org/?format=json", function(e) { 
+      var myParam = location.search.split('data=')[1]
+
+      $.getJSON('/assets/json/downloads.json', function(data) {
+        data[myParam] = parseInt(data[myParam]) + 1;
+        
+        $.each(data, function(key, value) {
+            console.log(key+"..."+value);
+        });
+      });
+  });
+</script>
