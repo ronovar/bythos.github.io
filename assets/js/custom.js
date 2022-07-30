@@ -96,7 +96,7 @@ $('.file-download li').click(function(e) {
           type: 'GET',
           dataType : 'json',
           async: false,
-          url: 'http://'+ window.location.host + '/assets/json/downloads.html',
+          url: 'http://'+ window.location.host + '/bythos.github.io/assets/json/downloads.html',
           data: { data: JSON.stringify(file) },
           success: function () { alert("Success!"); },
           failure: function() { alert("Error!"); }
