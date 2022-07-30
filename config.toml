@@ -2,7 +2,6 @@ baseURL = "https://ronovar.github.io/bythos.github.io/"
 languageCode = "en-us"
 title = "Bythos"
 theme = "dimension"
-staticDir = "/bythos.github.io/static"
 [params]
 custom_css = ["assets/css/fotorama.css", "assets/css/custom.css"]
 custom_js = ["assets/js/fotorama.js", "assets/js/custom.js", "assets/js/calculator.js"]
