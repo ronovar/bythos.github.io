@@ -48,7 +48,7 @@ this soft start in Class-A amplifier, please use a 10W resistors.
 
 ### Circuit details
 
-{{< click-zoom src="/images/soft-start-schematic.png" height="100%" width="100%" >}}
+{{< click-zoom src="/bythos.github.io/images/soft-start-schematic.png" height="100%" width="100%" >}}
 
 Refer now to Fig.1 for the full Momentary push button and Soft Start circuit details.
 As shown, four 5W resistors are connected to the NC and NO (normally closed and normaly open) contacts of a relay.
