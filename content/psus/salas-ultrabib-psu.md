@@ -1,6 +1,6 @@
 ---
 title: "Salas UltraBiB PSU"
-date: 2022-07-30T18:46:45Z
+date: 2022-07-29T18:46:45Z
 draft: false
 ---
 #### High Class Shunt PSU
