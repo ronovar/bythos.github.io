@@ -106,3 +106,6 @@ $('.file-download li').click(function(e) {
     })
 });
 
+$('.logo a span.icon img').click(function(e) {
+	location.href = 'https://ronovar.github.io/bythos.github.io/';
+});
