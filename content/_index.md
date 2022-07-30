@@ -1,5 +1,5 @@
 ---
 title: Bythos
 description: DIY Audio Projects
-logo: $.Param "baseGIT" "/images/pcb-logo-wide.svg"
+logo: {{ printf "%s /images/pcb-logo-wide.svg" $.Param.baseGIT }}
 ---
