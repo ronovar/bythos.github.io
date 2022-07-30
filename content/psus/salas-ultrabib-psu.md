@@ -12,8 +12,5 @@ ALTHOUGH DESIGNED specifically for our Class-A Stereo PreAmplifier, this unit ca
 Basically, the unit provides the following features: 
 
 - High Power Supply Rejection Ratio (PSRR)
-- Low Output Noise
-- Low Output Impendance
-- Stable Output Voltage
-- Kelvin Output Sensing
-
+- Low Output Noise & Impendance
+- Stable Output Voltage & Kelvin Sensing
