@@ -2,7 +2,7 @@
   {{- $pageTitle := replace (lower .Page.Title) " " "-" -}}
   {{ range (readDir "/static/images/") }}
   {{ if (hasPrefix .Name ( printf "%s-model" $pageTitle )) }}
-    <img src={{ printf "%s/images/%s" .Site.BaseGIT .Name }} />
+    <img src={{ printf "/bythos.github.io/images/%s" .Name }} />
   {{ end }}
   {{ end }}
 </div>
