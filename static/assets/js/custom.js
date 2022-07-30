@@ -86,7 +86,7 @@ $('.file-download li').click(function(e) {
 
     link.attr('target', '_blank');
     
-    $.getJSON('http://'+ window.location.host + '/assets/json/downloads.json', function(data) {
+    $.getJSON('https://'+ window.location.host + '/bythos.github.io/assets/json/downloads.json', function(data) {
         var downloaded = parseInt(data[file]) + 1;
         
         download.text(downloaded);
