@@ -119,7 +119,7 @@ ensure a delay of five seconds for Q3 (as set by R5) and to ensure that no more 
 
 The resistor values to suit differing supply rails is calculated from the bottom calculator.  
 
-{{< click-zoom src="/images/speaker-protection-layout.png#center" height="100%" width="100%" >}}  
+{{< click-zoom src="/bythos.github.io/images/speaker-protection-layout.png#center" height="100%" width="100%" >}}  
 
 **Fig.2: install the parts on the PC board as shown here, taking care
 to ensure that all polarised parts are correctly oriented. Also, make certain you use the correct transistor type at each location. Below is the completed PC board.**  
@@ -149,7 +149,7 @@ By activating the BJT, it will start discharging through its collector with 100Î
 
 The 22nF capacitors are there due to possible interference, so that we don't trigger our detection prematurely.
 
-{{< click-zoom src="/images/speaker-protection-overcurrent.png" height="100%" width="100%" >}}
+{{< click-zoom src="/bythos.github.io/images/speaker-protection-overcurrent.png" height="100%" width="100%" >}}
 
 ### Construction
 
