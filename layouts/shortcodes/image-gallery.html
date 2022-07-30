@@ -1,0 +1,8 @@
+<div class="fotorama" data-nav="thumbs" data-autoplay="true" data-keyboard="true" data-allowfullscreen="true">
+  {{- $pageTitle := replace (lower .Page.Title) " " "-" -}}
+  {{ range (readDir "/static/images/") }}
+  {{ if (hasPrefix .Name ( printf "%s-model" $pageTitle )) }}
+    <img src={{ printf "/images/%s" .Name }} />
+  {{ end }}
+  {{ end }}
+</div>

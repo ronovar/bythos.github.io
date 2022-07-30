@@ -1,0 +1,63 @@
+{{- $type := replace (lower .Page.Title) " " "-" -}}
+{{ with (eq $type "speaker-protection") }}
+<form id="{{ print $type }}"> 
+  <h3>Resistor Calculator</h3>
+  <div class="fields">
+    <div class="field half">
+      <label for="VDC">Supply Voltage (VDC):</label>
+      <input type="text" name="VDC" id="VDC" value="50">
+    </div>
+    <div class="field half">
+      <label for="CVDC">Coil Voltage (VDC):</label>
+      <input type="text" name="CVDC" id="CVDC" value="24">
+    </div>
+    <div class="field half">
+      <label for="AC">Toroid Voltage (VAC):</label>
+      <input type="text" name="VAC" id="VAC" value="35">
+    </div>
+    <div class="field half">
+      <label for="CR">Coil Resistance (Ω):</label>
+      <input type="text" name="CR" id="CR" value="445">
+    </div>
+    <div class="field half">
+      <label for="overcurrent">Topology (OPS):</label>
+      <select name="overcurrent" id="overcurrent">
+        <option value="DEF-PSU" data-vdrop="3">Dual Emitter Follower (PSU)</option>
+        <option value="DEF-REG" data-vdrop="1">Dual Emitter Follower (PSU+REG)</option>
+        <option value="TEF-PSU" data-vdrop="4">Triple Emitter Follower (PSU)</option>
+        <option value="TEF-REG" data-vdrop="1">Triple Emitter Follower (PSU+REG)</option>
+        <option value="DAR-PSU" data-vdrop="3">Darlington (PSU)</option>
+        <option value="DAR-REG" data-vdrop="1">Darlington (PSU+REG)</option>
+        <option value="MOSFET-PSU" data-vdrop="5">MOSFET (PSU)</option>
+        <option value="MOSFET-REG" data-vdrop="1">MOSFET (PSU+REG)</option>
+      </select>
+    </div>
+    <div class="field half">
+      <label for="SPKRES">Speaker Resistance (Ω):</label>
+      <input type="text" name="SPKRES" id="SPKRES" value="8">
+    </div>
+    <div class="field half">
+      <label for="OPSPAIRS">Output Pairs (OPS):</label>
+      <input type="text" name="OPSPAIRS" id="OPSPAIRS" value="2">
+    </div>
+    <div class="field half">
+      <label for="EMITERES">Emitter Resistance (Ω):</label>
+      <input type="text" name="EMITERES" id="EMITERES" value="0.22">
+    </div>
+  </div>
+  <ul class="calculated-resistors">
+    <li id="R1">R1 ..................... ?</li>
+    <li id="R5">R5 ............................. ?</li>
+    <li id="R6">R6 ............................. ?</li>
+    <li id="R7">R7 ............................. ?</li>
+    <li id="R9">R9 ............................. ?</li>
+    <li id="R10R11">R10, R11 ..... ?</li>
+    <li id="R12R13">R12, R13 .......... ?</li>
+    <li id="LIN-TOP">LIN-TOP .......... ?</li>
+    <li id="RIN-TOP">RIN-TOP .......... ?</li>
+  </ul>
+</form>
+{{ end }}
+{{ with (eq $type "other") }}
+  <script>console.log("other...");</script>
+{{ end }}

@@ -1,0 +1,16 @@
+{{ if .IsNamedParams }}
+<div class="click-zoom">
+  <label>
+    <input type="checkbox">
+    <img src="{{.Get "src" }}" height="{{.Get "height" }}" width="{{.Get "width" }}" alt="">
+    <a title="Expand to actual size" class="highslide-full-expand"></a>
+  </label>
+</div>
+{{ else }}
+<div class="click-zoom">
+  <label>
+    <input type="checkbox">
+    <img src="{{.Get 0}}" alt="">
+  </label>
+</div>
+{{ end }}

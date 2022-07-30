@@ -1,0 +1,18 @@
+{{ if .IsNamedParams }}
+<ul class="file-download">
+  {{ if (fileExists (printf "static/attachments/%s - Schematic.pdf" .Page.Title)) -}}
+    <li>{{ .Page.Title }} - Schematic (PDF)<span>0</span></li>
+  {{- end }}
+  {{ if (fileExists (printf "static/attachments/%s - Layout.pdf" .Page.Title)) -}}
+    <li>{{ .Page.Title }} - Layout (PDF)<span>0</span></li>
+  {{- end }}
+  {{ if (fileExists (printf "static/attachments/%s - PCB.pdf" .Page.Title)) -}}
+    <li>{{ .Page.Title }} - PCB (PDF)<span>0</span></li>
+  {{- end }}
+</ul>
+{{ else }}
+<ul>
+  <li>
+  </li>
+</ul>
+{{ end }}
