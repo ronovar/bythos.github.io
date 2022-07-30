@@ -47,7 +47,7 @@ This is much faster than simply relying on the collapsing DC supply rail to turn
 
 ### Circuit details
 
-{{< click-zoom src="/images/speaker-protection-schematic.png" height="100%" width="100%" >}}
+{{< click-zoom src="bythos.github.io/images/speaker-protection-schematic.png" height="100%" width="100%" >}}
 
 Refer now to Fig.1 for the full Speaker Protection and Muting Module circuit details. As shown, each channel of the amplifier is connected to the NC and NO (normally closed and normally open) contacts of a relay. The relay wipers (poles) and NC contacts then each respectively connect to the positive and negative loudspeaker terminals.
 
