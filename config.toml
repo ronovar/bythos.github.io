@@ -1,5 +1,4 @@
 baseURL = "https://ronovar.github.io/bythos.github.io/"
-baseGIT = "bythos.github.io"
 languageCode = "en-us"
 title = "Bythos"
 theme = "dimension"
