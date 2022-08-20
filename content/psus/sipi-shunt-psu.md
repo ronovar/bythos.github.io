@@ -7,7 +7,7 @@ draft: false
 
 {{< image-gallery >}}
 
-SIPI SHUNT psu is designed to be applied as an upgrade in analog and digitale playback equipment like (SA)CD players, DACs, PREAMPs and alike. The shunts drop in instead of commonly used industrial types of regulators. Having much lower noise, true wide bandwidth and linear output impedance, they'll bring improvement to sound in terms of:
+SIPI SHUNT psu is designed to be applied as an upgrade in analog and digital playback equipment like (SA)CD players, DACs, PREAMPs and alike. The shunts drop in instead of commonly used industrial types of regulators. Having much lower noise, true wide bandwidth and linear output impedance, they'll bring improvement to sound in terms of:
 
 - Higher resolution
 - Better transparency
