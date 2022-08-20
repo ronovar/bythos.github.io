@@ -1,5 +1,5 @@
 ---
-title: "Salas UltraBiB PSU"
+title: "Sipi Shunt PSU"
 date: 2022-07-29T18:46:45Z
 draft: false
 ---
@@ -14,3 +14,4 @@ Basically, the unit provides the following features:
 - High Power Supply Rejection Ratio (PSRR)
 - Low Output Noise & Impendance
 - Stable Output Voltage & Kelvin Sensing
+- Currents up to 100mA
