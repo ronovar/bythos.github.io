@@ -23,3 +23,20 @@ The shunts consist of an active wide band current source to isolate the input fr
 ### Circuit details
 
 {{< click-zoom src="/bythos.github.io/images/sipi-shunt-psu-schematic.png" height="100%" width="100%" >}}
+
+At input AC connectors we have CRC filter that is used to suppress toroidal "ringing", so we need to only find R1 and R2 value using "Quasimodo" test jig to get lowest "ringing" as possible.If you don't have testing jig you can use default 150R as starting value.Next circuit is a full wave bridge rectifier that is used to convert AC sinusoidal voltage to DC voltage, and we have used here MBR1100 Shottky Diode that have fast turn ON/OFF recovery time, with low dropout voltage.
+
+After full wave rectifier there is a RCC filter that "surpress" noise generated from rectifier and that comes from AC voltage outlet. If you have few volts larger DC voltage that will be come to out shunt regulator you can increase or decrease these resistor values in RCC filter.
+
+Rectified and filtered DC voltage is then feed to Constant Current Source (Q1) that is limmiting current at output. Reference voltage for CCS is RED LED that have forward voltage of 1,7V.Using resistors (R7 & R8) we set maximum current that will be available at the output using formula R=1V/limiting current. So we set our CCS to be limiting current of about 66mA. Our shunt gets about 25mA-30mA to function correctly, so output available current for load is about 40mA. If you need larger value you can decrease resistors (R7 & R8) to get larger available current for load.Max output current is 100mA available for load (plus 25mA-30mA).LED biasing current is about 2-3mA and is set using JFET connected as CCS, and it's current is set using resistors (R10 & R12).
+
+Because AC filtering capacitor for shunt is large value (C15 & C16) is 47uF we use simple BJT and zener that at startup it fast charges capacitors (C15 & C16), and after these capacitors is fully charge BJT and zener is inactive. This allows us to get fast startup below 1seconds, without them startup will be around 5-6seconds.
+
+Next circuit is our shunt reference TL431 that is used to set reference voltage for output shunt element (Q9 & Q10), using trimmer (P1 & P2) we can set output voltage for our load wich controls shunt elements (Q9 & Q10). Here is one exceptional note that in positive and negative rail we have our shunt BJT connected collerctor to virtual ground, this way we get better shunt current control and better transient response at output.
+
+Because our shunt element is away from our load, we implement remote sense connectors that connect to load. This way we have same performanse on load like that shunt regulator is on load PCB.Keep in mind that maximum remote sense wires and force wires (V+ GND V-) is maximum 10cm or less.
+
+Output bypass capacitors 47uF (C19 & C20) needs to be non Low ESR type. If you put low ESR capacitors at output you will maybe get oscilations. So put here normal capacitors to get stable output.
+
+Shunt regulators needs to be put on heatsink that have temperature resistance 5K/W or less, to avoid overheating output shunt regulators. After shunt psu is build connect resistors between (V+ & GND) and (V- & GND) to simulate current draw. Without load at output all available current that is set using CCS will be burnt on output shunts and there will be very high dissipation. We calculate resistos using formula R=output voltage/load current. So in our example R=24V/40mA we set at output 600Ω resistors, and power rating for resistors is calulated using formula P=I2xR, so power rating will be 40mA2x600Ω is around 1W, we put 2W minimum resistor rating.
+
