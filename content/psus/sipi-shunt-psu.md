@@ -40,3 +40,24 @@ Output bypass capacitors 47uF (C19 & C20) needs to be non Low ESR type. If you p
 
 Shunt regulators needs to be put on heatsink that have temperature resistance 5K/W or less, to avoid overheating output shunt regulators. After shunt psu is build connect resistors between (V+ & GND) and (V- & GND) to simulate current draw. Without load at output all available current that is set using CCS will be burnt on output shunts and there will be very high dissipation. We calculate resistos using formula R=output voltage/load current. So in our example R=24V/40mA we set at output 600Ω resistors, and power rating for resistors is calulated using formula P=I2xR, so power rating will be 40mA2x600Ω is around 1W, we put 2W minimum resistor rating.
 
+### Bill of Materials
+
+| Name                                    | Value             | Quantity  |             
+|:---------------------------------------:|:-----------------:|:---------:|
+| R1,R2                                   |  150Ω             |     2     |
+| R3,R4,R5,R6                             |  4.7Ω             |     4     |
+| R7,R8,R22,R24                           |  15Ω              |     4     |
+| R9,R11                                  |  3.3kΩ            |     2     |
+| R10,R12,R17,R18                         |  150Ω             |     4     |
+| R13,R14                                 |  120kΩ            |     2     |
+| R15,R16                                 |  2.2kΩ            |     2     |
+| R19,R20                                 |  1kΩ              |     2     |
+| R21,R23                                 |  120Ω             |     2     |
+| Q1,Q9                                   |  BD140-16         |     2     |
+| Q4,Q10                                  |  BD139-16         |     2     |
+| Q2,Q3                                   |  J113             |     2     |
+| Q5,Q6,Q7,Q8                             |  2N5401           |     4     |
+| C1,C2                                   |  10nF             |     2     |
+| C3,C4                                   |  150nF            |     2     |
+| C5,C6                                   |  100nF/100V/MKP   |     2     |
+| C7,C8                                   |  220μF/50V        |     2     |
