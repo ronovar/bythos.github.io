@@ -16,7 +16,7 @@ SIPI SHUNT psu is designed to be applied as an upgrade in analog and digitale pl
 
 Traditionally, voltage regulators never where designed for audio applications. As an example, the very popular 7805 initially was designed as a voltage regulator for digital logic and low micro controllers - who cared about bandwidth or output noise. Derrivatives like 7815 and 7915 are widely used to supply the analogue output stage of CD players. About time for an upgrade!
 
-### How Shunt Works?
+### Why Shunt?
 
 The shunts consist of an active wide band current source to isolate the input from the output. The output is regulated by an active shunt regualtor with both low output noise and wide active bandwidth. For RF frequencies. Using the shunts is also beneficial in terms of additional decoupling: All output electrolytics can be left out!
 
