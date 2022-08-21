@@ -1,5 +1,8 @@
 {
    "speakerprotectionschematic":"0",
    "speakerprotectionlayout":"0",
-   "speakerprotectionpcb":"0"
+   "speakerprotectionpcb":"0",
+   "sipishuntpsuschematic":"0",
+   "sipishuntpsulayout":"0",
+   "sipishuntpsupcb":"0"
 }
