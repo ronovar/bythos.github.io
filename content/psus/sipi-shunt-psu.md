@@ -40,6 +40,11 @@ Output bypass capacitors 47uF (C19 & C20) needs to be non Low ESR type. If you p
 
 Shunt regulators needs to be put on heatsink that have temperature resistance 5K/W or less, to avoid overheating output shunt regulators. After shunt psu is build connect resistors between (V+ & GND) and (V- & GND) to simulate current draw. Without load at output all available current that is set using CCS will be burnt on output shunts and there will be very high dissipation. We calculate resistos using formula R=output voltage/load current. So in our example R=24V/40mA we set at output 600Ω resistors, and power rating for resistors is calulated using formula P=I2xR, so power rating will be 40mA2x600Ω is around 1W, we put 2W minimum resistor rating.
 
+{{< click-zoom src="/bythos.github.io/images/sipi-shunt-psu-layout.png#center" height="100%" width="100%" >}}  
+
+**Fig.2: install the parts on the PC board as shown here, taking care
+to ensure that all polarised parts are correctly oriented. Also, make certain you use the correct transistor type at each location. Below is the completed PC board.**
+
 ### Bill of Materials
 
 | Name                                    | Value             | Quantity  |             
@@ -57,7 +62,23 @@ Shunt regulators needs to be put on heatsink that have temperature resistance 5K
 | Q4,Q10                                  |  BD139-16         |     2     |
 | Q2,Q3                                   |  J113             |     2     |
 | Q5,Q6,Q7,Q8                             |  2N5401           |     4     |
+| D1,D2,D3,D4,D5,D6,D7,D8                 |  MBR1100          |     8     |
+| D9,D10                                  |  BZX85C15         |     2     |
+| IC1,IC2                                 |  TL431            |     2     |
 | C1,C2                                   |  10nF             |     2     |
 | C3,C4                                   |  150nF            |     2     |
-| C5,C6                                   |  100nF/100V/MKP   |     2     |
-| C7,C8                                   |  220μF/50V        |     2     |
+| C5,C6,C13,C14                           |  100nF/100V/MKP   |     4     |
+| C7,C8,C11,C12                           |  220μF/50V        |     4     |
+| C9,C10                                  |  2200μF/50V       |     2     |
+| C15,C16                                 |  47uF/50V         |     2     |
+| C17,C18                                 |  470uF/35V        |     2     |
+| C19,C20                                 |  47uF/35V         |     2     |
+| P1,P2                                   |  25kΩ             |     2     |
+| LED1,LED2                               |  HLMP6000         |     2     |
+| AC1,AC2,V+,V-                           |  KF301-2P         |     4     |
+| SENSE+,SENSE-                           |  JST-XH2.54-2	    |     2     |
+| SCREW1-4                                |  M3	              |     4     |
+
+### Download  
+
+{{< file-download title="download">}}  
