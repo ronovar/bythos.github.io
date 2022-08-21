@@ -35,3 +35,44 @@ CUSTOMIZING this preamplifier is easy to do and should be done when there is a n
 
 **Fig.2: install the parts on the PC board as shown here, taking care
 to ensure that all polarised parts are correctly oriented. Also, make certain you use the correct transistor type at each location. Below is the completed PC board.**
+
+### Bill of Materials
+
+| Name                                    | Value             | Quantity  |             
+|:---------------------------------------:|:-----------------:|:---------:|
+| R1                                      |  47kΩ             |     1     |
+| R2                                      |  120Ω             |     1     |
+| R3,R6,R18,R19                           |  10Ω              |     4     |
+| R4,R5                                   |  18kΩ             |     2     |
+| R7                                      |  1kΩ              |     1     |
+| R8                                      |  4k7Ω             |     1     |
+| R9                                      |  240Ω             |     1     |
+| R10,R11                                 |  680Ω             |     2     |
+| R12                                     |  390Ω             |     1     |
+| R13,R20,R21                             |  220Ω             |     3     |
+| R14,R15                                 |  18Ω              |     2     |
+| R16                                     |  2k4Ω             |     1     |
+| R17                                     |  2k7Ω             |     1     |
+| R22                                     |  33Ω              |     1     |
+| R23,R24                                 |  68Ω              |     2     |
+| R25,R26                                 |  15Ω              |     2     |
+| Q1,Q2,Q3,Q4,Q10,Q11,Q12                 |  KSC1845          |     7     |
+| Q5,Q6,Q7,Q8,Q9                          |  KSA992           |     5     |
+| Q13,Q14                                 |  KSC3503          |     2     |
+| Q15                                     |  KSA1381          |     1     |
+| C1                                      |  2μ2F/MCAP-250    |     1     |
+| C2                                      |  150pF/MICA       |     1     |
+| C3                                      |  1n5F/KP1830      |     1     |
+| C4,C5,C6                                |  22pF/MICA        |     3     |
+| C7,C10,C11                              |  100nF/MKP1837    |     3     |
+| C8,C9                                   |  220μF/35V        |     2     |
+| C12,C13                                 |  47pF/MICA        |     2     |
+| LED1,LED2                               |  HLMP6000         |     2     |
+| V+,GND, V-, SPK                         |  1-726388-2       |     4     |
+| INPUT                                   |  JST-XH2.54-2	    |     1     |
+| H1                                      |  SK492-50-8.5K/W	|     1     |
+| SCREW1-4                                |  M3	              |     4     |
+
+### Download  
+
+{{< file-download title="download">}}
