@@ -50,3 +50,5 @@ Dimension of Aluminum Alloy Base is 230x185mm. Standard Version comes With 4 Cla
 ### FLUITIN 60/38/2%, 0,75mm, 500g Solder Wire - US $54,18
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-fluitin-solder-wire.png#center" height="100%" width="100%" >}}
+
+Wire with five flux cores. Contains 2,2% flux, flux residues need not be removed. Commonly used solder for fine and contact soldering.
