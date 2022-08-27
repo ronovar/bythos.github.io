@@ -52,3 +52,11 @@ Dimension of Aluminum Alloy Base is 230x185mm. Standard Version comes With 4 Cla
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-fluitin-solder-wire.png#center" height="60%" width="60%" >}}
 
 Wire with five flux cores. Contains 2,2% flux, flux residues need not be removed. Commonly used solder for fine and contact soldering.
+
+### KNIPEX 78 71 125 ESD Pliers - US $26,15
+
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-knipex-7871125-ESD.png#center" height="60%" width="60%" >}}
+
+Precision pliers for the finest cutting work in electronics and precision engineering: shear cut with controlled micro.
+
+Extremely sharp cutting edges made from oil-hardened, high-grade special tool steel. Work involving dexterity: low weight and smooth operation. ESD protection to prevent uncontrolled electrostatic discharge.
