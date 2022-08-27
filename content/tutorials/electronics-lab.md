@@ -22,5 +22,5 @@ Also install a Desktop or Laptop computer in your workspace which will be really
 
 These are some of the important tools and equipment that you should consider buying. The list is sorted to show the most important tool least important one. This list is subjective and the priority can vary based on project you likely to work with. This is intend to give some idea about the tools.
 
-### UNI-T UT61+ Series 1000V True RMS\nDigital Multimeter
+### "UNI-T UT61+ Series 1000V True RMS\nDigital Multimeter"
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut61+.png#center" height="40%" width="40%" >}}  
