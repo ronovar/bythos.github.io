@@ -28,16 +28,9 @@ These are some of the important tools and equipment that you should consider buy
 
 UT61+ series are reliable true RMS digital multimeters with 22,000 display counts (UT61E+). It can measure up to 1000V AC/DC.
 
-Features of UT61+ Series 1000V True RMS Digital Multimeters:
-- True RMS
-- Data hold/backlight
-- Max/Min/Relative mode
-- USB communication
-- Input protection
-- Diode/continuity test
-- NCV (audible/visual alarm)
-
 Equipped with audible and visible alarm, this series can provide warning expecially when measuring high voltage/current and temperature.
 For the our lab circuit we use two multimeters, one to measure the voltage and another one to measure the current. So we need to buy two same models of multimeters.
 
+### AIXUN T245 Solder Station - US $153,90
 
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-aixun-t245.png#center" height="100%" width="100%" >}}
