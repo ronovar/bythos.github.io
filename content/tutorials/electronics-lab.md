@@ -28,6 +28,6 @@ UNI-T UT61E+ is a professional digital True RMS multimeter featuring high reliab
 
 For the our lab circuit we use two multimeters, one to measure the voltage and another one to measure the current. So we need to buy two same models of multimeters.
 
-{{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut61+.png#center" height="40%" width="40%" >}}
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut61+.png#center" height="100%" width="100%" >}}
 
 
