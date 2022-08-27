@@ -34,3 +34,7 @@ For the our lab circuit we use two multimeters, one to measure the voltage and a
 ### AIXUN T245 Solder Station - US $153,90
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-aixun-t245.png#center" height="100%" width="100%" >}}
+
+Aixun-T3A, the world's first 200W Full Intelligent soldering station. It have many soldering tips to choose.
+
+Equipped with 200W super power supply, it only takes 4 seconds for C245 soldering iron to rise to 380 ℃. Intelligent recognition of welding target and environment, intelligent power compensation and automatic protection. 2.4 inch color display, 100-480 ℃ temperature adjustable, with real-time dormancy. Automatic identification of handle model and working state. Personal habit temperature self memory, three channel temperature fast switching, knob adjustment. The host has built-in environment temperature sensor to avoid high temperature operation. Maximum support of 24 V-8A current output, with DC power supply and burning function.
