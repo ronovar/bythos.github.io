@@ -24,9 +24,9 @@ These are some of the important tools and equipment that you should consider buy
 
 ### UNI-T UT61+ Digital Multimeter - US $89.99
 
-UT61+ series are reliable true RMS digital multimeters with 22,000 display counts (UT61E+). It can measure up to 1000V AC/DC.
-
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut61+.png#center" height="100%" width="100%" >}}
+
+UT61+ series are reliable true RMS digital multimeters with 22,000 display counts (UT61E+). It can measure up to 1000V AC/DC.
 
 Features of UT61+ Series 1000V True RMS Digital Multimeters:
 - True RMS
