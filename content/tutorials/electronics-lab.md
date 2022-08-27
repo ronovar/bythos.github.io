@@ -60,3 +60,11 @@ Wire with five flux cores. Contains 2,2% flux, flux residues need not be removed
 Precision pliers for the finest cutting work in electronics and precision engineering: shear cut with controlled micro.
 
 Extremely sharp cutting edges made from oil-hardened, high-grade special tool steel. Work involving dexterity: low weight and smooth operation. ESD protection to prevent uncontrolled electrostatic discharge.
+
+### UNI-T UT622E LCR Meter - US $172.79
+
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut622e.png#center" height="100%" width="100%" >}}
+
+The UT622 Series Handheld LCR meters feature powerful functions, high accuracy, fast speed, and long standby time.
+
+With a clear and intuitive 2.8-inch TFT LCD display, large-capacity rechargeable batiery, and up to 100kHz test frequency, the meters can be used for longstanding accurate and convenient measurement in any occasion. They are suitable for the measurement and screening of inductance, capacitance, and resistance in laboratories, production lines, maintenance points etc.
