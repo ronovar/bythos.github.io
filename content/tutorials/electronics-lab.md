@@ -22,5 +22,12 @@ Also install a Desktop or Laptop computer in your workspace which will be really
 
 These are some of the important tools and equipment that you should consider buying. The list is sorted to show the most important tool least important one. This list is subjective and the priority can vary based on project you likely to work with. This is intend to give some idea about the tools.
 
-### "UNI-T UT61+ Series 1000V True RMS\nDigital Multimeter"
-{{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut61+.png#center" height="40%" width="40%" >}}  
+### UNI-T UT61+ Digital Multimeter - US $89.99
+
+UNI-T UT61E+ is a professional digital True RMS multimeter featuring high reliability and security. Equipped with a large LCD, 46 segment analog bar graph, and full scale overload protection. The multimeter measures AC/DC voltage, AC/DC current, DC+AC voltage, resistance, capacitance, frequency, duty ratio, continuity, transistor hFE, and may be used for diode testing.
+
+For the our lab circuit we use two multimeters, one to measure the voltage and another one to measure the current. So we need to buy two same models of multimeters.
+
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut61+.png#center" height="40%" width="40%" >}}
+
+
