@@ -68,3 +68,9 @@ Extremely sharp cutting edges made from oil-hardened, high-grade special tool st
 The UT622 Series Handheld LCR meters feature powerful functions, high accuracy, fast speed, and long standby time.
 
 With a clear and intuitive 2.8-inch TFT LCD display, large-capacity rechargeable batiery, and up to 100kHz test frequency, the meters can be used for longstanding accurate and convenient measurement in any occasion. They are suitable for the measurement and screening of inductance, capacitance, and resistance in laboratories, production lines, maintenance points etc.
+
+### HEAT INSULATION SILICONE PAD - US $26.73
+
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-heat-insulation-silicone-pad.png#center" height="100%" width="100%" >}}
+
+With 490x350mm dimensions and 5mm thickness it make your repair work easy. Resistance to high temperature of 500°C. Heat-trapping, nti-skidding, productivity improvement. Sevaral hole location to set screws,IC chips and small parts. This is Silicone Insulation Pad, Can swab with the thinner/PCB cleaning water, Thermostable, Anti-corrosive. For maintenance platform, for Soldering Stations, for Laminating machine, for Remover Bubble machine.
