@@ -84,3 +84,6 @@ Lever Action Crimping Pliers with changer magazine. Just one tool for the most c
 ### KNIPEX 12 52 195 PreciStrip16 - US $200,00
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-knipex-1252195-PreciStrip16.png#center" height="100%" width="100%" >}}
+
+Automatic Insulation Stripper. Simple, precise stripping of fine wires and solid round cables with a wide capacity range from 0.08 to 16 mm² with only one pair of pliers. Good grip provided by semi-circular grooved metal holding clamps, exact cut thanks to parabolic stripping blade. A patented automatism regulates the depth of the cut; the neutral point of the automatism can be adjusted in fine steps in special operating conditions (insulation material, temperature). With adjustable length stop for precision work repeated accurately each time. Inscription area for customisation. Comfortable operation with ergonomic dual-component handle
+With tether attachment point, suitable for KNIPEX Tethered Tools accessories. Easily replaceable blade cassette.
