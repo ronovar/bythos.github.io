@@ -74,3 +74,9 @@ With a clear and intuitive 2.8-inch TFT LCD display, large-capacity rechargeable
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-heat-insulation-silicone-pad.png#center" height="100%" width="100%" >}}
 
 With 490x350mm dimensions and 5mm thickness it make your repair work easy. Resistance to high temperature of 500°C. Heat-trapping, nti-skidding, productivity improvement. Sevaral hole location to set screws,IC chips and small parts. This is Silicone Insulation Pad, Can swab with the thinner/PCB cleaning water, Thermostable, Anti-corrosive. For maintenance platform, for Soldering Stations, for Laminating machine, for Remover Bubble machine.
+
+### KNIPEX 97 33 02 MultiCrimp - US $233,76
+
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-knipex-973302-MultiCrimp.png#center" height="100%" width="100%" >}}
+
+Lever Action Crimping Pliers with changer magazine. Just one tool for the most common crimping applications. Crimping dies changed quickly and easily without any additional tool. Sorted and protected storage of the interchangeable dies in a round magazine. Comfortable, powerful crimping pliers in professional quality. Same reliable crimping results as with fixed crimping dies. Consistently high crimping quality thanks to precision dies and ratchet mechanism (unlockable). Special quality chrome vanadium electric steel, oil-hardened. Round magazine: glass fibre reinforced plastic.
