@@ -80,3 +80,7 @@ With 490x350mm dimensions and 5mm thickness it make your repair work easy. Resis
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-knipex-973302-MultiCrimp.png#center" height="100%" width="100%" >}}
 
 Lever Action Crimping Pliers with changer magazine. Just one tool for the most common crimping applications. Crimping dies changed quickly and easily without any additional tool. Sorted and protected storage of the interchangeable dies in a round magazine. Comfortable, powerful crimping pliers in professional quality. Same reliable crimping results as with fixed crimping dies. Consistently high crimping quality thanks to precision dies and ratchet mechanism (unlockable). Special quality chrome vanadium electric steel, oil-hardened. Round magazine: glass fibre reinforced plastic.
+
+### KNIPEX 12 52 195 PreciStrip16 - US $200,00
+
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-knipex-1252195-PreciStrip16.png#center" height="100%" width="100%" >}}
