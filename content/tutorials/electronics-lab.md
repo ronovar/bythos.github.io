@@ -69,6 +69,12 @@ The UT622 Series Handheld LCR meters feature powerful functions, high accuracy, 
 
 With a clear and intuitive 2.8-inch TFT LCD display, large-capacity rechargeable batiery, and up to 100kHz test frequency, the meters can be used for longstanding accurate and convenient measurement in any occasion. They are suitable for the measurement and screening of inductance, capacitance, and resistance in laboratories, production lines, maintenance points etc.
 
+### UNI-T UTI320E Infrared Thermal Imager - US $748.95
+
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-uti320e.png#center" height="100%" width="100%" >}}
+
+Handheld Thermal Imager Camera with WiFi and PC Software monitoring function. UTi320E is an anvanced handheld thermal imaging camera for industrial use, measuring temperature from -40℃ to 400℃. It is at high performance/price rate. IR resolution 320*240. 3.5″ large IPS Screen. Temperature Range:-40℃ ~400℃. Thermal Camera and Visible Light Camera. 16G Miscro SD Card for pictures Storage. Auto-tracking and Auto-alarm of High/Low Temperature. PC Software monitoring and analysis. WiFi connection to cellphone. IP54Waterproof and 2M drop test.
+
 ### HEAT INSULATION SILICONE PAD - US $26.73
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-heat-insulation-silicone-pad.png#center" height="100%" width="100%" >}}
