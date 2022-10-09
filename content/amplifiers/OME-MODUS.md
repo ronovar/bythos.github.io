@@ -7,8 +7,6 @@ draft: false
 
 {{< image-gallery >}}
 
-{{< click-zoom src="/bythos.github.io/images/ome-modus-layout.png#center" height="100%" width="100%" >}}
-
 ### Circuit description
 
 {{< click-zoom src="/bythos.github.io/images/ome-modus-schematic.png" height="100%" width="100%" >}}
@@ -33,3 +31,45 @@ The 220pF capacitor together with the 10kΩ resistor feeding Q1 form a low pass 
 
 Another important factor in the amplifier’s excellent stability is the output RLC network consisting of the 4,7µH choke, a 2,2Ω resistor and a 100nF capacitor with series 10Ω resistor. Not only does this network ensure stability but the capacitor is an effective killer of any RF and mains-interference signals which can he picked up by long loudspeaker leads.
 
+### PC Board Topology
+
+As noted earlier, the design of the PC board is a very critical part of the overall circuit. The placement of the components and the way that heavy currents flow in the tracks is all arranged to minimise the radiation of harmonics into the input stage involving Ql & Q2.
+
+This board is yet a further refinement of the topology we use and that is differential pair for input and vas stage, followed by Vbe multiplier with drivers that drives double emitter follower.
+
+It incorporates “star earthing” whereby all earth currents come back to a central point on the board, thereby avoiding any flow of output, supply and bypass currents flowing in the signal earths.
+
+Furthermore, placement of the copper tracks to the output stages is arranged, as far as possible, to cancel the magnetic fields produced by the asymmetric currents drawn by each half of the output stage.
+
+By way of explanation, when the positive half of the output stage (Q13 & Q15) conducts, the DC current drawn is effectively a positive half wave (ie, rectification takes place) of the signal waveform, and when the negative half conducts (Ql4 & Q16), the DC current is the negative half wave.
+
+A major cause of harmonic distortion in class-B amplifiers is the magnetic fields produced by these asymmetric currents inducing unwanted signals into the input stages, in this case involving Ql & Q2.
+
+So we have tried to cancel these fields as much as possible (in a single sided PC board).
+
+For example, notice how the heavy collector and emitter tracks placed close together. So what happens is that the magnetic field produced by the asymmetric current in collector tracks is more or less cancelled as the same current flows back in the emitter resistors.
+
+It is then most important to arrange the DC supply cables to the amplifier to further this cancellation process.
+
+To make the input stage less vulnerable to spurious magnetic fields from the output stage, we have concentrated it into as small an area of the PC board as possible.
+
+Another trick is the location of the takeoff point for the 10kΩ resistor and its orientation at rightangles to the output stage emitter resistors.
+
+Finally, the signal earth for the input stage is separated from the main amplifier earth by a 10Ω resistor. This is not so important when a single module is in use but it is most important when two modules are used in a stereo system.
+
+In that situation, the joining of the two signal earths back via the input cables to a single program source such as a CD player will cause an earth loop and a resulting major degradation in the separation between channels and lesser degradation in the distortion performance.
+
+Well, that’s probably enough discussion of the PC board but suffice to say that the overall design has been carefully arranged to minimise distortion and leave as little to chance in the wiring layout so that constructors are certain to get excellent results.
+
+The PC board and the component placement is shown in Fig.2.
+
+{{< click-zoom src="/bythos.github.io/images/ome-modus-layout.png#center" height="100%" width="100%" >}}
+
+**Fig.2: install the parts on the PC board as shown here, taking care
+to ensure that all polarised parts are correctly oriented. Also, make certain you use the correct transistor type at each location. Below is the completed PC board.**
+
+ ### Bill of Materials
+ 
+| Name                                    | Value             | Quantity  |             
+|:---------------------------------------:|:-----------------:|:---------:|
+| **R1***                                 |  ***Ω**           |  **1**    |
