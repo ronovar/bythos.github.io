@@ -90,3 +90,30 @@ to ensure that all polarised parts are correctly oriented. Also, make certain yo
 | R26                                     |  33Ω/2W           |     1     |
 | R27,R28,R29,R30                         |  2,2Ω             |     4     |
 | R31,R32,R33,R34                         |  0,22Ω/5W         |     4     |
+| R36,R37                                 |  1Ω/2W            |     2     |
+| Q1,Q2,Q3,Q4                             |  KSA992           |     4     |
+| Q5,Q6,Q10                               |  KSA1381          |     3     |
+| Q7,Q8,Q9                                |  KSC3503          |     3     |
+| Q11                                     |  MJE15032         |     1     |
+| Q12                                     |  MJE15033         |     1     |
+| Q13,Q15                                 |  NJW3281G         |     2     |
+| Q14,Q16                                 |  NJW1302G         |     2     |
+| D1,D2                                   |  1N4007           |     2     |
+| C1                                      |  4,7μF/MCAP250    |     1     |
+| C2                                      |  220pF/Mica       |     1     |
+| C3                                      |  47μF/63V         |     1     |
+| C4,C8                                   |  15pF/Mica        |     2     |
+| C5                                      |  470μF/16V        |     1     |
+| C6,C10,C11                              |  100nF/100V/MKP   |     3     |
+| C7                                      |  120pF/Mica       |     1     |
+| C9                                      |  1μF/63V/MKP417   |     1     |
+| C12,C13,C19,C20                         |  470μF/63V        |     4     |
+| C15,C16                                 |  220nF/MKT        |     2     |
+| C17,C18                                 |  470nF/MKT        |     2     |
+| BIAS                                    |  500Ω             |     1     |
+| V+,V-,SPK, PGND                         |  1-726388-2       |     4     |
+| SCREW1-4                                |  M3               |     4     |
+
+### Download  
+
+{{< file-download title="download">}}
