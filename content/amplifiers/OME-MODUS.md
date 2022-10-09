@@ -7,6 +7,8 @@ draft: false
 
 {{< image-gallery >}}
 
+Power output is 100 watts RMS into a 8Ω load and 140 watts into 4Ω load, before the onset of clipping. A particular feature of the MODUS is low distortion.
+
 ### Circuit description
 
 {{< click-zoom src="/bythos.github.io/images/ome-modus-schematic.png" height="100%" width="100%" >}}
