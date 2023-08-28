@@ -22,7 +22,7 @@ Also install a Desktop or Laptop computer in your workspace which will be really
 
 These are some of the important tools and equipment that you should consider buying. The list is sorted to show the most important tool least important one. This list is subjective and the priority can vary based on project you likely to work with. This is intend to give some idea about the tools.
 
-### UNI-T UT61+ Digital Multimeter - US $89.99
+### UNI-T UT61+ Digital Multimeter - EUR €82.00
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut61+.png#center" height="100%" width="100%" >}}
 
@@ -31,7 +31,7 @@ UT61+ series are reliable true RMS digital multimeters with 22,000 display count
 Equipped with audible and visible alarm, this series can provide warning expecially when measuring high voltage/current and temperature.
 For the our lab circuit we use two multimeters, one to measure the voltage and another one to measure the current. So we need to buy two same models of multimeters.
 
-### AIXUN T245 Solder Station - US $153,90
+### AIXUN T245 Solder Station - EUR €151,90
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-aixun-t245.png#center" height="100%" width="100%" >}}
 
@@ -39,7 +39,7 @@ Aixun-T3A, the world's first 200W Full Intelligent soldering station. It have ma
 
 Equipped with 200W super power supply, it only takes 4 seconds for C245 soldering iron to rise to 380 ℃. Intelligent recognition of welding target and environment, intelligent power compensation and automatic protection. 2.4 inch color display, 100-480 ℃ temperature adjustable, with real-time dormancy. Automatic identification of handle model and working state. Personal habit temperature self memory, three channel temperature fast switching, knob adjustment. The host has built-in environment temperature sensor to avoid high temperature operation. Maximum support of 24 V-8A current output, with DC power supply and burning function.
 
-### 4 ARM Soldering Station - US $56,30
+### 4 ARM Soldering Station - EUR €56,30
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-4arm-soldering-station.png#center" height="100%" width="100%" >}}
 
@@ -47,13 +47,13 @@ Aluminum Alloy CNC 4 Arm Soldering Station with Removable Clamp Holder for PCB.
 
 Dimension of Aluminum Alloy Base is 230x185mm. Standard Version comes With 4 Clamp Holder and Flexible Single Arm. Arm Length is 290mm and Weight is 620g.
 
-### FLUITIN 60/38/2%, 0,75mm Solder Wire - US $54,18
+### FLUITIN 60/38/2%, 0,75mm Solder Wire - EUR €54,18
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-fluitin-solder-wire.png#center" height="60%" width="60%" >}}
 
 Wire with five flux cores. Contains 2,2% flux, flux residues need not be removed. Commonly used solder for fine and contact soldering.
 
-### KNIPEX 78 71 125 ESD Pliers - US $26,15
+### KNIPEX 78 71 125 ESD Pliers - EUR €26,15
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-knipex-7871125-ESD.png#center" height="60%" width="60%" >}}
 
@@ -61,7 +61,7 @@ Precision pliers for the finest cutting work in electronics and precision engine
 
 Extremely sharp cutting edges made from oil-hardened, high-grade special tool steel. Work involving dexterity: low weight and smooth operation. ESD protection to prevent uncontrolled electrostatic discharge.
 
-### UNI-T UT622E LCR Meter - US $172.79
+### UNI-T UT622E LCR Meter - EUR €172.79
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut622e.png#center" height="100%" width="100%" >}}
 
@@ -69,25 +69,25 @@ The UT622 Series Handheld LCR meters feature powerful functions, high accuracy, 
 
 With a clear and intuitive 2.8-inch TFT LCD display, large-capacity rechargeable batiery, and up to 100kHz test frequency, the meters can be used for longstanding accurate and convenient measurement in any occasion. They are suitable for the measurement and screening of inductance, capacitance, and resistance in laboratories, production lines, maintenance points etc.
 
-### UNI-T UTI320E Infrared Thermal Imager - US $748.95
+### UNI-T UTI320E Infrared Thermal Imager - EUR €638.81
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-uti320e.png#center" height="100%" width="100%" >}}
 
 Handheld Thermal Imager Camera with WiFi and PC Software monitoring function. UTi320E is an anvanced handheld thermal imaging camera for industrial use, measuring temperature from -40℃ to 400℃. It is at high performance/price rate. IR resolution 320*240. 3.5″ large IPS Screen. Temperature Range:-40℃ ~400℃. Thermal Camera and Visible Light Camera. 16G Miscro SD Card for pictures Storage. Auto-tracking and Auto-alarm of High/Low Temperature. PC Software monitoring and analysis. WiFi connection to cellphone. IP54Waterproof and 2M drop test.
 
-### HEAT INSULATION SILICONE PAD - US $26.73
+### HEAT INSULATION SILICONE PAD - EUR €26.73
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-heat-insulation-silicone-pad.png#center" height="100%" width="100%" >}}
 
 With 490x350mm dimensions and 5mm thickness it make your repair work easy. Resistance to high temperature of 500°C. Heat-trapping, nti-skidding, productivity improvement. Sevaral hole location to set screws,IC chips and small parts. This is Silicone Insulation Pad, Can swab with the thinner/PCB cleaning water, Thermostable, Anti-corrosive. For maintenance platform, for Soldering Stations, for Laminating machine, for Remover Bubble machine.
 
-### KNIPEX 97 33 02 MultiCrimp - US $233,76
+### KNIPEX 97 33 02 MultiCrimp - EUR €233,76
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-knipex-973302-MultiCrimp.png#center" height="100%" width="100%" >}}
 
 Lever Action Crimping Pliers with changer magazine. Just one tool for the most common crimping applications. Crimping dies changed quickly and easily without any additional tool. Sorted and protected storage of the interchangeable dies in a round magazine. Comfortable, powerful crimping pliers in professional quality. Same reliable crimping results as with fixed crimping dies. Consistently high crimping quality thanks to precision dies and ratchet mechanism (unlockable). Special quality chrome vanadium electric steel, oil-hardened. Round magazine: glass fibre reinforced plastic.
 
-### KNIPEX 12 52 195 PreciStrip16 - US $200,00
+### KNIPEX 12 52 195 PreciStrip16 - EUR €200,00
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-knipex-1252195-PreciStrip16.png#center" height="100%" width="100%" >}}
 
