@@ -69,8 +69,6 @@ The UT622 Series Handheld LCR meters feature powerful functions, high accuracy, 
 
 With a clear and intuitive 2.8-inch TFT LCD display, large-capacity rechargeable batiery, and up to 100kHz test frequency, the meters can be used for longstanding accurate and convenient measurement in any occasion. They are suitable for the measurement and screening of inductance, capacitance, and resistance in laboratories, production lines, maintenance points etc.
 
-#### SMD Tools
-
 ### AIXUN H310D Hot Air Rework Station - EUR €258,91
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-h310d.png#center" height="100%" width="100%" >}}
