@@ -69,6 +69,14 @@ The UT622 Series Handheld LCR meters feature powerful functions, high accuracy, 
 
 With a clear and intuitive 2.8-inch TFT LCD display, large-capacity rechargeable batiery, and up to 100kHz test frequency, the meters can be used for longstanding accurate and convenient measurement in any occasion. They are suitable for the measurement and screening of inductance, capacitance, and resistance in laboratories, production lines, maintenance points etc.
 
+#### SMD Tools
+
+### AIXUN H310D Hot Air Rework Station - EUR €258,91
+
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-h310d.png#center" height="100%" width="100%" >}}
+
+AiXun smart hot air gun rework station leading the technological innovation with internet technology. It is the first smart hot air gun that supports segment and curve desoldering with built in technical desoldering parameters which can be revised, recalled, saved and added by users so as to build the exclusive database. The 3.5inch IPS HD display screen is benefit for observing temperature changes. It owns multiple advantages includes WiFi networking OTA upgrade, bluetooth interconnecting, silent brushless air blower and 1000W high power heating core. Besides, it is designed with three working modes: standard mode, soft mode (connector desoldering) and top speed mode (fast chip desoldering), which can be switched quickly through the shortcut channel buttons, help beginners fix chip and motherboard easily.
+
 ### UNI-T UTI320E Infrared Thermal Imager - EUR €638.81
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-uti320e.png#center" height="100%" width="100%" >}}
