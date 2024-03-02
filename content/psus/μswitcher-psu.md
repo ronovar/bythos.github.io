@@ -1,5 +1,5 @@
 ---
-title: "OME μSwitcher PSU"
+title: "OME &#181;Switcher PSU"
 date: 2024-03-01T12:14:16Z
 draft: false
 ---
