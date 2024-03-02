@@ -50,7 +50,7 @@ OME uSwitcher is designed to be run from a USB charger or from a powerbank for t
 | C18,C19,C24,C25,C28,C29                 |  220µF/25V          | 8mm       |     6     |
 | P1,P2                                   |  1kΩ                | 3296W     |     2     |
 | L1,L2                                   |  10µH/4A            | 6.6x3x7.3 |     2     |
-| L3,L4                                   |  3µ3H/5A            | 5.2x35.4  |     2     |
+| L3,L4                                   |  3µ3H/5A            | 5.2x3x5.4 |     2     |
 | V+,GND,V-                               |  B3B-ZR-3.4(LF)(SN) | 3-PIN     |     1     |
 | RS+, RS-                                |  B2B-ZR-3.4(LF)(SN) | 2-PIN     |     2     |
 | USB1                                    |  USB4125-GF-A-0190  | TYPE-C    |     1     |
