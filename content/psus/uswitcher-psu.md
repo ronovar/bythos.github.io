@@ -7,7 +7,7 @@ draft: false
 
 {{< image-gallery >}}
 
-OME uSwitcher is designed to be run from a USB charger or from a powerbank for total mains separation with the following feautures:
+OME μSwitcher is designed to be run from a USB charger or from a powerbank for total mains separation with the following feautures:
 
 - very low noise (1nV/sqrt(Hz))
 - high bandwidth range (10-100kHz)
