@@ -20,6 +20,8 @@ OME uSwitcher is designed to be run from a USB charger or from a powerbank for t
 
 {{< click-zoom src="/bythos.github.io/images/ome-uswitcher-psu-schematic.png" height="100%" width="100%" >}}
 
+At input USB1 connector we have resistors (R1 & R2) that sets the output voltage to 5VDC from USB Charger.
+
 ### Bill of Materials
 
 | Name                                    | Value               | Package   | Quantity  |             
