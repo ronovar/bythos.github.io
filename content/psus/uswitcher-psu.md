@@ -20,7 +20,17 @@ OME uSwitcher is designed to be run from a USB charger or from a powerbank for t
 
 {{< click-zoom src="/bythos.github.io/images/ome-uswitcher-psu-schematic.png" height="100%" width="100%" >}}
 
-At input USB1 connector we have resistors (R1 & R2) that sets the output voltage to 5VDC from USB Charger.
+At input USB1 connector we have resistors (R1 & R2) that sets the output voltage to 5VDC from USB Charger. Please make sure that USB charger is capable of supplying 3A at 5VDC out as we use boost/buck-boost converters that converts input 5VDC to higher output voltage that goes into serial regulators (IC3 & IC4). So recommended is minimum 15W USB charger (more W is better) that is GaN type as these USB chargers are small and very power efficient (runs very cool at high delivering currents).
+
+Input 5VDC goes to Boost-Converter (IC1) with inputs capacitors (C1, C3 & C4) that smooths input voltage. Inductor (L1) when charged will give at output higher voltage that is feed on input, and output voltage is set by FB resistors (R4 & R5). Next capacitors (C10 & C12) lower the output ripple of Boost-Converter and PI-Filter is added here to suppress high frequency switching that is producing Boost-Converter so that we have high PSRR on high frequency as Boost-Converter is set to work on 1.6MHz switching frequency.
+
+Positive voltage regulator (IC3) is used to regulate voltage and suppress input noise. Minimum recommended input voltage needs to be about 3.5VDC higher that set output voltage using trimmer (P1). Diodes (D3 & D5) is used here to protect voltage regulator from wrong voltage polarity. And capacitor (C18 & C19) is used here to get higer PSRR at ADJ pin.
+
+Active servo OPAMP is here as error correction amplifier that takes output regulated voltage, supress any noise from them, and clean it using internal high PSRR, BW. This way we get high PSRR, high BW in audio spectrum and lower output impendance of psu.
+
+At output we have Remote sense using each resistor in each rail (R32 & R33) that "monitors" remote voltage on load and correct voltage to be accurate so this way we have not voltage fluctations as voltage at load will be fixed.
+
+For negative side of schematic function is the same except that we use Buck-Boost Inverting (IC2) that gives us negative voltage that is then feed to negative voltage regulator and active servo with remote sense.
 
 {{< click-zoom src="/bythos.github.io/images/ome-uswitcher-psu-layout-top.png#center" height="100%" width="100%" >}}
 {{< click-zoom src="/bythos.github.io/images/ome-uswitcher-psu-layout-bottom.png#center" height="100%" width="100%" >}}  
