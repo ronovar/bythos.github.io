@@ -18,7 +18,7 @@ OME uSwitcher is designed to be run from a USB charger or from a powerbank for t
 
 ### Circuit details
 
-To be updated...
+{{< click-zoom src="/bythos.github.io/images/ome-uswitcher-psu-schematic.png" height="100%" width="100%" >}}
 
 ### Bill of Materials
 
