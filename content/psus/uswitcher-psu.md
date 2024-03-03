@@ -78,3 +78,7 @@ to ensure that all polarised parts are correctly oriented. Also, make certain yo
 | RS+, RS-                                |  B2B-ZR-3.4(LF)(SN) | 2-PIN     |     2     |
 | USB1                                    |  USB4125-GF-A-0190  | TYPE-C    |     1     |
 | SCREW1-4                                |  M2.5x6             | SCREW     |     4     |
+
+### Download  
+
+{{< file-download title="download">}} 
