@@ -7,5 +7,6 @@ custom_css = ["assets/css/fotorama.css", "assets/css/custom.css"]
 custom_js = ["assets/js/fotorama.js", "assets/js/custom.js", "assets/js/calculator.js"]
 copystart = "2021"
 name = "Bythos Corporation"
+RemovePathAccents = false
 
 [menu]
