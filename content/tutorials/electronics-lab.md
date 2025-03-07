@@ -24,7 +24,7 @@ These are some of the important tools and equipment that you should consider buy
 
 ### UNI-T UT61+ Digital Multimeter - EUR €82.00
 
-{{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut61+.png#center" height="100%" width="100%" >}}
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-brymen-bm789#center" height="100%" width="100%" >}}
 
 UT61+ series are reliable true RMS digital multimeters with 22,000 display counts (UT61E+). It can measure up to 1000V AC/DC.
 
