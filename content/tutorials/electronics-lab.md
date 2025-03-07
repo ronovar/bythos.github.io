@@ -24,7 +24,7 @@ These are some of the important tools and equipment that you should consider buy
 
 ### BRYMEN BM789 Digital Multimeter - EUR €195.71
 
-{{< click-zoom src="/bythos.github.io/images/electronics-lab-brymen-bm789#center" height="100%" width="100%" >}}
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-brymen-bm789.jpg#center" height="100%" width="100%" >}}
 
 BM789 series are reliable true RMS digital multimeters with 60,000 display counts. It can measure up to CAT III 1000V AC/DC.
 
