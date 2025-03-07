@@ -22,11 +22,11 @@ Also install a Desktop or Laptop computer in your workspace which will be really
 
 These are some of the important tools and equipment that you should consider buying. The list is sorted to show the most important tool least important one. This list is subjective and the priority can vary based on project you likely to work with. This is intend to give some idea about the tools.
 
-### UNI-T UT61+ Digital Multimeter - EUR €82.00
+### BRYMEN BM789 Digital Multimeter - EUR €195.71
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-brymen-bm789#center" height="100%" width="100%" >}}
 
-UT61+ series are reliable true RMS digital multimeters with 22,000 display counts (UT61E+). It can measure up to 1000V AC/DC.
+BM789 series are reliable true RMS digital multimeters with 60,000 display counts. It can measure up to CAT III 1000V AC/DC.
 
 Equipped with audible and visible alarm, this series can provide warning expecially when measuring high voltage/current and temperature.
 For the our lab circuit we use two multimeters, one to measure the voltage and another one to measure the current. So we need to buy two same models of multimeters.
