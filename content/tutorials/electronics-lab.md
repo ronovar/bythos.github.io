@@ -24,12 +24,11 @@ These are some of the important tools and equipment that you should consider buy
 
 ### HIOKI DT4282 Digital Multimeter - EUR €320,28
 
-{{< click-zoom src="/bythos.github.io/images/electronics-lab-hioki-dt4282.jpg#center" height="100%" width="100%" >}}
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-hioki-dt4282.png#center" height="100%" width="100%" >}}
 
-DT4282 is a high-precision 60,000 count digital multimeter with direct 10A input and all of the functions and features required for advanced testing in laboratories and R&D.
+The Hioki DT4282 is a high-precision True RMS 60,000 count digital multimeter designed for professionals.
 
-Equipped with audible and visible alarm, this series can provide warning expecially when measuring high voltage/current and temperature.
-For the our lab circuit we use two multimeters, one to measure the voltage and another one to measure the current. So we need to buy two same models of multimeters.
+With ±0.025% basic accuracy, it measures AC/DC voltage, current, resistance, capacitance, frequency, and temperature with confidence. Built for industrial and laboratory use, it features dual display, data logging, and CAT IV 600 V / CAT III 1000 V safety rating—making it the reliable choice for electricians, engineers, and technicians.
 
 ### AIXUN T245 Solder Station - EUR €151,90
 
