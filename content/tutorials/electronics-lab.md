@@ -68,6 +68,12 @@ Precision pliers for the finest cutting work in electronics and precision engine
 
 Extremely sharp cutting edges made from oil-hardened, high-grade special tool steel. Work involving dexterity: low weight and smooth operation. ESD protection to prevent uncontrolled electrostatic discharge.
 
+### AIXUN H314 Smart Hot Air Rework Station - EUR €258,91
+
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-aixun-h314.png#center" height="100%" width="100%" >}}
+
+H314 leads technological innovation by ingeniously integrating thermal imaging technology with intelligent desoldering station functionality, creating the world's first thermal imaging intelligent desoldering station. Heating core with 1400W rated power, heating up to 380C in 3 seconds under top speed mode, improve the maintenance efficiency. WiFi networking OTA upgrade, interconnecting through Bluetooth, support Al smart voice central control; Built-in with fingerprint function, support fingerprint recognition and automatic switch of multiple accounts; Soft, standard, top speed modes and design of 9 channels, switch 5 sets of accounts by fingerprint, maximum 45 sets can be saved, to meet the needs of different users.
+
 ### UNI-T UT622E LCR Meter - EUR €172.79
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut622e.png#center" height="100%" width="100%" >}}
@@ -75,12 +81,6 @@ Extremely sharp cutting edges made from oil-hardened, high-grade special tool st
 The UT622 Series Handheld LCR meters feature powerful functions, high accuracy, fast speed, and long standby time.
 
 With a clear and intuitive 2.8-inch TFT LCD display, large-capacity rechargeable batiery, and up to 100kHz test frequency, the meters can be used for longstanding accurate and convenient measurement in any occasion. They are suitable for the measurement and screening of inductance, capacitance, and resistance in laboratories, production lines, maintenance points etc.
-
-### AIXUN H310D Hot Air Rework Station - EUR €258,91
-
-{{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-h310d.png#center" height="100%" width="100%" >}}
-
-AiXun smart hot air gun rework station leading the technological innovation with internet technology. It is the first smart hot air gun that supports segment and curve desoldering with built in technical desoldering parameters which can be revised, recalled, saved and added by users so as to build the exclusive database. The 3.5inch IPS HD display screen is benefit for observing temperature changes. It owns multiple advantages includes WiFi networking OTA upgrade, bluetooth interconnecting, silent brushless air blower and 1000W high power heating core. Besides, it is designed with three working modes: standard mode, soft mode (connector desoldering) and top speed mode (fast chip desoldering), which can be switched quickly through the shortcut channel buttons, help beginners fix chip and motherboard easily.
 
 ### UNI-T UTI320E Infrared Thermal Imager - EUR €638.81
 
