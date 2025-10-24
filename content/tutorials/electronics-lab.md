@@ -22,13 +22,13 @@ Also install a Desktop or Laptop computer in your workspace which will be really
 
 These are some of the important tools and equipment that you should consider buying. The list is sorted to show the most important tool least important one. This list is subjective and the priority can vary based on project you likely to work with. This is intend to give some idea about the tools.
 
-### HIOKI DT4282 Digital Multimeter - EUR €320,28
+### UNI-T UT181A True RMS Datalogging Multimeter - EUR €320,28
 
-{{< click-zoom src="/bythos.github.io/images/electronics-lab-hioki-dt4282.png#center" height="100%" width="100%" >}}
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-uni-t-ut181a.png#center" height="100%" width="100%" >}}
 
-The Hioki DT4282 is a high-precision True RMS 60,000 count digital multimeter designed for professionals.
+UT181A is a digital multimeter with trend capture, true RMS, low pass filter, nS conductance, dual temperature measurement, and more.
 
-With ±0.025% basic accuracy, it measures AC/DC voltage, current, resistance, capacitance, frequency, and temperature with confidence. Built for industrial and laboratory use, it features dual display, data logging, and CAT IV 600 V / CAT III 1000 V safety rating—making it the reliable choice for electricians, engineers, and technicians.
+With ±0.025% basic accuracy, it measures AC/DC voltage, current, resistance, capacitance, frequency, and temperature with confidence. Built for laboratory use, it features dual display, data logging, and CAT IV 600 V / CAT III 1000 V safety rating—making it the reliable choice for electricians, engineers, and technicians.
 
 ### AIXUN T245 Solder Station - EUR €151,90
 
