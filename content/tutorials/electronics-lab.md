@@ -30,13 +30,13 @@ UT181A is a digital multimeter with trend capture, true RMS, low pass filter, nS
 
 With ±0.025% basic accuracy, it measures AC/DC voltage, current, resistance, capacitance, frequency, and temperature with confidence. Built for laboratory use, it features dual display, data logging, and CAT IV 600 V / CAT III 1000 V safety rating—making it the reliable choice for electricians, engineers, and technicians.
 
-### AIXUN T245 Solder Station - EUR €151,90
+### AIXUN T400 Smart Soldering Workstation - EUR €350,00
 
-{{< click-zoom src="/bythos.github.io/images/electronics-lab-aixun-t245.png#center" height="100%" width="100%" >}}
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-aixun-t400.png#center" height="100%" width="100%" >}}
 
-Aixun-T3A, the world's first 200W Full Intelligent soldering station. It have many soldering tips to choose.
+Aixun-T400, the world's first 320W Full Intelligent soldering station with toroidal transformer allowing AC pure isolation on tip. It have many soldering tips to choose (C030, C080, C150, C250) using new AiXun 4-in-1 smart soldering handle T225 compatible with 4 types of soldering tips.
 
-Equipped with 200W super power supply, it only takes 4 seconds for C245 soldering iron to rise to 380 ℃. Intelligent recognition of welding target and environment, intelligent power compensation and automatic protection. 2.4 inch color display, 100-480 ℃ temperature adjustable, with real-time dormancy. Automatic identification of handle model and working state. Personal habit temperature self memory, three channel temperature fast switching, knob adjustment. The host has built-in environment temperature sensor to avoid high temperature operation. Maximum support of 24 V-8A current output, with DC power supply and burning function.
+Equipped with 320W toroidal transformer with AC pure isolation, it only takes 4 seconds for C150 soldering iron to rise to 380 ℃. Intelligent recognition of welding target and environment, intelligent power compensation and automatic protection. 2.4 inch color display, 100-500 ℃ temperature adjustable, with real-time dormancy. Automatic identification of handle model and working state. Personal habit temperature self memory, three channel temperature fast switching, knob adjustment. The host has built-in environment temperature sensor to avoid high temperature operation. Maximum support of 24 V-8A current output, with DC power supply and burning function.
 
 ### 4 ARM Soldering Station - EUR €56,30
 
