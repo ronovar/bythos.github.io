@@ -46,6 +46,14 @@ Aluminum Alloy CNC 4 Arm Soldering Station with Removable Clamp Holder for PCB.
 
 Dimension of Aluminum Alloy Base is 230x185mm. Standard Version comes With 4 Clamp Holder and Flexible Single Arm. Arm Length is 290mm and Weight is 620g.
 
+### ENGINEER SS-02 - EUR €40,60
+
+{{< click-zoom src="/bythos.github.io/images/electronics-lab-engineer-ss-02.png#center" height="60%" width="60%" >}}
+
+The ENGINEER SS-02 is an improvement on the classic desoldering pump. Its body is made out of aluminium and it is much more compact than other hand-driven pumps. It features a silicone nozzle tip which covers the joint for more directed suction.
+
+The inside of the body needs to be maintained by applying silicone grease. The silicone tip can withstand temperatures of up to 350 °C.
+
 ### FLUITIN 60/38/2%, 0,75mm Solder Wire - EUR €54,18
 
 {{< click-zoom src="/bythos.github.io/images/electronics-lab-fluitin-solder-wire.png#center" height="60%" width="60%" >}}
